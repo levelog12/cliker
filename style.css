@@ -1,0 +1,22 @@
+body{
+background: url(img/Screenshot_3.png);
+}
+
+.aa{
+color: wheat;
+background-color: black;
+font-size: 70px;
+margin-right:400px;
+margin-left: 400px;}
+
+.AAA{
+font-size: 50px;
+margin-left: 425px;}
+
+.gold{
+margin-top: 50px;
+font-size:40px;
+margin-left:400px;
+background-color: gold; 
+margin-right: 380px;}
+
